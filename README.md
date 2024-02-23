@@ -5,7 +5,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/RaphaelNicolaou" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" alt="@rafael_nikolaou" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rafael-nikolaou" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" alt="rafael nikolaou" height="30" width="40" /></a>
 </p>
 
